@@ -1,0 +1,9 @@
+node_modules
+
+Bento4-SDK-1-6-0-639.x86_64-unknown-linux
+
+*.mp4
+
+dist
+
+*.zip
